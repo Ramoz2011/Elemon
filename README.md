@@ -23,7 +23,7 @@ Elemon is a turn-based battle game where elements (like fire and water) act as y
 2. Download or clone this repo
 3. Run the game:
    ```
-   python_elemon.py
+   elemon.py
    ```
 
 ## Built with
